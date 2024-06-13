@@ -23,3 +23,5 @@ e utilizando a funcionalidade de retry para continuar o fluxo mesmo em caso de f
     - **Display Results**: Recebe a URL da imagem e o fato e os imprime no console, além de abrir a imagem no navegador.
 3. **Configurar retry e timeout**: Configurar retries nas tarefas para lidar com falhas temporárias.
 4. **Executar o fluxo**: Orquestrar as tarefas utilizando um fluxo do Prefect.
+
+5. ![Captura de tela de 2024-06-13 09-19-58](https://github.com/rachel-araujo/flow-tasks-the-cats/assets/79382072/b6d2d776-ca1b-4acf-8585-576b78f87a98)
